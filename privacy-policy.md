@@ -19,7 +19,7 @@ Track Fruits uses cache to enhance your user experience and track website perfor
 For any questions, concerns, or inquiries related to this Privacy Policy, please contact us via email at [trackfruits@gmail.com](mailto:trackfruits@gmail.com).
 
 ## Age Restrictions and Parental Consent
-Users under the age of 13 are encouraged to obtain parental consent before using our website. Parents or guardians are responsible for supervising their children's use of Track Fruits and ensuring compliance with this Privacy Policy.
+Users under the age of 5 are encouraged to obtain parental consent before using our website. Parents or guardians are responsible for supervising their children's use of Track Fruits and ensuring compliance with this Privacy Policy.
 
 ## No Affiliation with Roblox or Blox Fruits
 Track Fruits is an independent website and is not affiliated with, endorsed, or sponsored by Roblox or the game Blox Fruits. All rights related to Roblox and Blox Fruits belong to their respective owners.

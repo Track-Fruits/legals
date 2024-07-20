@@ -9,6 +9,9 @@ We display advertisements on Track Fruits to help monetize our website. The adve
 ## Collection of User Data
 Track Fruits does not collect personal data from its users. We value your privacy and take steps to ensure that your information remains protected.
 
+## Registration and Login
+Track Fruits uses a registration and login system to provide personalized services to our users. We collect and store your email address and password securely. We use this information solely for authentication purposes and to provide you with access to your account.
+
 ## Data Storage and Security
 Track Fruits uses cache to enhance your user experience and track website performance. Cache files are temporary storage on your device managed by your web browser. They help us remember your preferences and analyze website usage.
 
